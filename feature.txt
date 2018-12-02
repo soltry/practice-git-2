@@ -1,1 +1,1 @@
-feature.txt added
+feature.txt addedfeature.txt addedLine 1
